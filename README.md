@@ -1,8 +1,8 @@
-# feathers-chat
+# Feathers-Chat-App-Server
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-chat.svg)](https://greenkeeper.io/)
 
-> A Feathers real-time chat application
+> Feathers Server side code for the Feathers Angular Chat System.
 
 ## About
 
